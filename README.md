@@ -1,4 +1,4 @@
-# smarthome-version-1.0
+# SmartHome Version 1.0
 
 A Local-First Smart Home Platform built for makers, embedded developers, and DIY enthusiasts.
 

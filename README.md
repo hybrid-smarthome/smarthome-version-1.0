@@ -1,6 +1,11 @@
 # SmartHome Version 1.0
 
-A Local-First Smart Home Platform built for makers, embedded developers, and DIY enthusiasts.
+SmartHome DIY does not implement a traditional mesh network.
+The Master Gateway acts as a packet forwarding bridge between Ethernet/MQTT and RF devices.
+All device management is handled by the mobile application.
+RF devices are addressed using unique DeviceKeys.
+
+This is a Local-First Smart Home Platform built for makers, embedded developers, and DIY enthusiasts..
 
 SmartHome DIY is a complete ecosystem including:
 
